@@ -1,0 +1,3 @@
+[submodule "nodejs-sales-api"]
+	path = nodejs-sales-api
+	url = https://github.com/gmahota/nodejs-sales-api.git
