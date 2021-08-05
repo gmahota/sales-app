@@ -1,3 +1,6 @@
 [submodule "nodejs-sales-api"]
 	path = nodejs-sales-api
 	url = https://github.com/gmahota/nodejs-sales-api.git
+[submodule "nextjs-sales-web"]
+	path = nextjs-sales-web
+	url = https://github.com/gmahota/nextjs-sales-web.git
